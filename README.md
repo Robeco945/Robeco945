@@ -14,6 +14,6 @@ I code sometimes, when people want me to.
 
 ![](https://github.com/Robeco945/Robeco945/blob/main/profile-summary-card-output/github_dark/0-profile-details.svg)
 ![](https://github.com/Robeco945/Robeco945/blob/main/profile-summary-card-output/github_dark/2-most-commit-language.svg)
-
+![](github-metrics.svg)
 
 
