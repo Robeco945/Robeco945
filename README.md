@@ -13,4 +13,3 @@ I code sometimes, when people want me to.
                   </p>
                   
 
-![Robeco's GitHub stats](https://github-readme-stats.vercel.app/api?username=Robeco945&show_icons=true&theme=transparent)
