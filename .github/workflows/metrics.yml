@@ -15,6 +15,7 @@ jobs:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  
 
           user: Robeco945
+          commits_authoring: Robeco945, your-email@example.com
           repositories_affiliations: owner, collaborator, organization_member
           template: classic
           base: ""
