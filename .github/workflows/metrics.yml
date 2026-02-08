@@ -15,6 +15,7 @@ jobs:
           token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}  
 
           user: Robeco945
+          repositories_affiliations: owner, collaborator, organization_member
           template: classic
           base: ""
           config_timezone: Europe/Helsinki
