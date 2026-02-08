@@ -1,9 +1,9 @@
 name: GitHub-Profile-Summary-Cards
 
 on:
-  schedule: # Execute every 24 hours
+  schedule: 
     - cron: "0 0 * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch: 
 
 jobs:
   build:
@@ -17,7 +17,6 @@ jobs:
       
       - uses: vn7n24fzkq/github-profile-summary-cards@release
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # Use the secret you created
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }} 
         with:
           USERNAME: ${{ github.repository_owner }}
-          # You can add exclude/include options here if needed
