@@ -18,7 +18,8 @@ jobs:
           commits_authoring: Robeco945, your-email@example.com
           repositories_affiliations: owner, collaborator, organization_member
           template: classic
-          base: ""
+          base: "header, activity, community, repositories, metadata"
+          base_indepth: yes            
           config_timezone: Europe/Helsinki
           
           plugin_languages: yes
