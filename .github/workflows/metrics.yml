@@ -19,7 +19,7 @@ jobs:
           repositories_affiliations: owner, collaborator, organization_member
           template: classic
           base: "header, activity, repositories"
-          base_indepth: yes            
+          base_indepth: no            
           config_timezone: Europe/Helsinki
           
           plugin_languages: yes
