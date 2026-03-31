@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Robeco945/Robeco945/main/profile-summary-card-output/github/4-productive-time.svg)
-```
-
-    
